@@ -1,3 +1,3 @@
-Hello, how are you?
-I'm rammosz!
+**I'm rammosz, Programmer and Game Designer**
+
 Studying C#
