@@ -1,7 +1,7 @@
 ### Opa, tudo bom?
 
 - Atualmente sou desenvolvedor de jogos
-- Estudando C#
+- Estudando C#, HTML e CSS
 - Game Designer e escritor
 - Criador do MURPHY
 
